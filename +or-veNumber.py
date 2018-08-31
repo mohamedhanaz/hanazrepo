@@ -1,8 +1,0 @@
-print("Enter any number") 
-a=int(input())
-if(a>0):
-  print("It is a positive number")
-elif(a==0):
-  print("It is zero")
-else:
-  print("It is a negative number")
